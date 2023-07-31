@@ -1,64 +1,64 @@
 {
-  "item.simplyswords.iron_cutlass": "铁弯刀",
-  "item.simplyswords.gold_cutlass": "金弯刀",
-  "item.simplyswords.diamond_cutlass": "钻石弯刀",
-  "item.simplyswords.netherite_cutlass": "下界合金弯刀",
-  "item.simplyswords.runic_rapier": "符文西洋剑",
-  "item.simplyswords.netherite_rapier": "下界合金西洋剑",
-  "item.simplyswords.diamond_rapier": "钻石西洋剑",
-  "item.simplyswords.gold_rapier": "金西洋剑",
-  "item.simplyswords.iron_rapier": "铁西洋剑",
-  "item.simplyswords.iron_glaive": "铁长柄刀",
-  "item.simplyswords.gold_glaive": "金长柄刀",
-  "item.simplyswords.diamond_glaive": "钻石长柄刀",
-  "item.simplyswords.netherite_glaive": "下界合金长柄刀",
-  "item.simplyswords.iron_warglaive": "铁战刃",
-  "item.simplyswords.gold_warglaive": "金战刃",
-  "item.simplyswords.diamond_warglaive": "钻石战刃",
-  "item.simplyswords.netherite_warglaive": "下界合金战刃",
-  "item.simplyswords.iron_spear": "铁矛",
-  "item.simplyswords.gold_spear": "金矛",
-  "item.simplyswords.diamond_spear": "钻石矛",
-  "item.simplyswords.netherite_spear": "下界合金矛",
-  "item.simplyswords.iron_sai": "铁钗",
-  "item.simplyswords.diamond_sai": "钻石钗",
-  "item.simplyswords.gold_sai": "金钗",
-  "item.simplyswords.netherite_sai": "下界合金钗",
-  "item.simplyswords.iron_katana": "铁武士刀",
-  "item.simplyswords.gold_katana": "金武士刀",
-  "item.simplyswords.diamond_katana": "钻石武士刀",
-  "item.simplyswords.netherite_katana": "下界合金武士刀",
-  "item.simplyswords.runic_cutlass": "符文弯刀",
-  "item.simplyswords.runic_katana": "符文武士刀",
-  "item.simplyswords.runic_sai": "符文钗",
-  "item.simplyswords.diamond_claymore": "钻石阔剑",
-  "item.simplyswords.netherite_claymore": "下界合金阔剑",
-  "item.simplyswords.runic_claymore": "符文阔剑",
-  "item.simplyswords.watcher_claymore": "守望者",
-  "item.simplyswords.brimstone_claymore": "硫磺阔剑",
-  "item.simplyswords.gold_claymore": "金阔剑",
-  "item.simplyswords.iron_claymore": "铁阔剑",
-  "item.simplyswords.runic_longsword": "符文长剑",
-  "item.simplyswords.watching_warglaive": "守望战刃",
-  "item.simplyswords.iron_longsword": "铁长剑",
-  "item.simplyswords.gold_longsword": "金长剑",
-  "item.simplyswords.diamond_longsword": "钻石长剑",
-  "item.simplyswords.netherite_longsword": "下界合金长剑",
-  "item.simplyswords.toxic_longsword": "瘟疫长剑",
-  "item.simplyswords.runic_twinblade": "符文双刃剑",
-  "item.simplyswords.runic_glaive": "符文长柄刀",
-  "item.simplyswords.runic_spear": "符文矛",
-  "item.simplyswords.runic_greathammer": "符文巨锤",
-  "item.simplyswords.runic_greataxe": "符文巨斧",
-  "item.simplyswords.iron_twinblade": "铁双刃剑",
-  "item.simplyswords.gold_twinblade": "金双刃剑",
-  "item.simplyswords.diamond_twinblade": "钻石双刃剑",
-  "item.simplyswords.netherite_twinblade": "下界合金双刃剑",
-  "item.simplyswords.iron_greathammer": "铁巨锤",
-  "item.simplyswords.gold_greathammer": "金巨锤",
-  "item.simplyswords.diamond_greathammer": "钻石巨锤",
-  "item.simplyswords.netherite_greathammer": "下界合金巨锤",
-  "item.simplyswords.iron_greataxe": "铁巨斧",
+  "item.simplyswords.iron_cutlass": "铁弯刀"，
+  "item.simplyswords.gold_cutlass": "金弯刀"，
+  "item.simplyswords.diamond_cutlass": "钻石弯刀"，
+  "item.simplyswords.netherite_cutlass": "下界合金弯刀"，
+  "item.simplyswords.runic_rapier": "符文西洋剑"，
+  "item.simplyswords.netherite_rapier": "下界合金西洋剑"，
+  "item.simplyswords.diamond_rapier": "钻石西洋剑"，
+  "item.simplyswords.gold_rapier": "金西洋剑"，
+  "item.simplyswords.iron_rapier": "铁西洋剑"，
+  "item.simplyswords.iron_glaive": "铁长柄刀"，
+  "item.simplyswords.gold_glaive": "金长柄刀"，
+  "item.simplyswords.diamond_glaive": "钻石长柄刀"，
+  "item.simplyswords.netherite_glaive": "下界合金长柄刀"，
+  "item.simplyswords.iron_warglaive": "铁战刃"，
+  "item.simplyswords.gold_warglaive": "金战刃"，
+  "item.simplyswords.diamond_warglaive": "钻石战刃"，
+  "item.simplyswords.netherite_warglaive": "下界合金战刃"，
+  "item.simplyswords.iron_spear": "铁矛"，
+  "item.simplyswords.gold_spear": "金矛"，
+  "item.simplyswords.diamond_spear": "钻石矛"，
+  "item.simplyswords.netherite_spear": "下界合金矛"，
+  "item.simplyswords.iron_sai": "铁钗"，
+  "item.simplyswords.diamond_sai": "钻石钗"，
+  "item.simplyswords.gold_sai": "金钗"，
+  "item.simplyswords.netherite_sai": "下界合金钗"，
+  "item.simplyswords.iron_katana": "铁武士刀"，
+  "item.simplyswords.gold_katana": "金武士刀"，
+  "item.simplyswords.diamond_katana": "钻石武士刀"，
+  "item.simplyswords.netherite_katana": "下界合金武士刀"，
+  "item.simplyswords.runic_cutlass": "符文弯刀"，
+  "item.simplyswords.runic_katana": "符文武士刀"，
+  "item.simplyswords.runic_sai": "符文钗"，
+  "item.simplyswords.diamond_claymore": "钻石阔剑"，
+  "item.simplyswords.netherite_claymore": "下界合金阔剑"，
+  "item.simplyswords.runic_claymore": "符文阔剑"，
+  "item.simplyswords.watcher_claymore": "守望者"，
+  "item.simplyswords.brimstone_claymore": "硫磺阔剑"，
+  "item.simplyswords.gold_claymore": "金阔剑"，
+  "item.simplyswords.iron_claymore": "铁阔剑"，
+  "item.simplyswords.runic_longsword": "符文长剑"，
+  "item.simplyswords.watching_warglaive": "守望战刃"，
+  "item.simplyswords.iron_longsword": "铁长剑"，
+  "item.simplyswords.gold_longsword": "金长剑"，
+  "item.simplyswords.diamond_longsword": "钻石长剑"，
+  "item.simplyswords.netherite_longsword": "下界合金长剑"，
+  "item.simplyswords.toxic_longsword": "瘟疫长剑"，
+  "item.simplyswords.runic_twinblade": "符文双刃剑"，
+  "item.simplyswords.runic_glaive": "符文长柄刀"，
+  "item.simplyswords.runic_spear": "符文矛"，
+  "item.simplyswords.runic_greathammer": "符文巨锤"，
+  "item.simplyswords.runic_greataxe": "符文巨斧"，
+  "item.simplyswords.iron_twinblade": "铁双刃剑"，
+  "item.simplyswords.gold_twinblade": "金双刃剑"，
+  "item.simplyswords.diamond_twinblade": "钻石双刃剑"，
+  "item.simplyswords.netherite_twinblade": "下界合金双刃剑"，
+  "item.simplyswords.iron_greathammer": "铁巨锤"，
+  "item.simplyswords.gold_greathammer": "金巨锤"，
+  "item.simplyswords.diamond_greathammer": "钻石巨锤"，
+  "item.simplyswords.netherite_greathammer": "下界合金巨锤"，
+  "item.simplyswords.iron_greataxe": "铁巨斧"，
   "item.simplyswords.gold_greataxe": "金巨斧",
   "item.simplyswords.diamond_greataxe": "钻石巨斧",
   "item.simplyswords.netherite_greataxe": "下界合金巨斧",
@@ -448,105 +448,105 @@
 
   "item.simplyswords.stormsworditem.tooltip1": "独特效果：风暴",
   "item.simplyswords.stormsworditem.tooltip2": "当下雨/湿润时：击中时有概率从空中召唤闪电，",
-  "item.simplyswords.stormsworditem.tooltip3": "劈到你的敌人身上。",
+  "item.simplyswords.stormsworditem.tooltip3": "劈到你的敌人身上。"，
 
-  "item.simplyswords.watchersworditem.tooltip1": "独特效果：预兆",
-  "item.simplyswords.watchersworditem.tooltip2": "击中时有概率从生命值",
-  "item.simplyswords.watchersworditem.tooltip3": "低于%d%%的敌人身上吸取生命，并将部分生命",
-  "item.simplyswords.watchersworditem.tooltip4": "以伤害吸收的方式给予持有者。",
-  "item.simplyswords.watchersworditem.tooltip5": "独特效果：守望者",
-  "item.simplyswords.watchersworditem.tooltip6": "击中时有概率吸取附近敌人的生命，并治疗",
-  "item.simplyswords.watchersworditem.tooltip7": "持有者。",
+  "item.simplyswords.watchersworditem.tooltip1": "独特效果：预兆"，
+  "item.simplyswords.watchersworditem.tooltip2": "击中时有概率从生命值"，
+  "item.simplyswords.watchersworditem.tooltip3": "低于%d%%的敌人身上吸取生命，并将部分生命"，
+  "item.simplyswords.watchersworditem.tooltip4": "以伤害吸收的方式给予持有者。"，
+  "item.simplyswords.watchersworditem.tooltip5": "独特效果：守望者"，
+  "item.simplyswords.watchersworditem.tooltip6": "击中时有概率吸取附近敌人的生命，并治疗"，
+  "item.simplyswords.watchersworditem.tooltip7": "持有者。"，
 
-  "item.simplyswords.plaguesworditem.tooltip1": "独特效果：瘟疫",
-  "item.simplyswords.plaguesworditem.tooltip2": "击中时有概率将正面药水效果转变为其对应",
-  "item.simplyswords.plaguesworditem.tooltip3": "的负面效果。",
+  "item.simplyswords.plaguesworditem.tooltip1": "独特效果：瘟疫"，
+  "item.simplyswords.plaguesworditem.tooltip2": "击中时有概率将正面药水效果转变为其对应"，
+  "item.simplyswords.plaguesworditem.tooltip3": "的负面效果。"，
 
-  "item.simplyswords.emberiresworditem.tooltip1": "独特效果：余烬怒火",
-  "item.simplyswords.emberiresworditem.tooltip2": "击中时有概率用火焰包裹持有者，对其",
-  "item.simplyswords.emberiresworditem.tooltip3": "造成伤害并给予力量效果。",
-  "item.simplyswords.emberiresworditem.tooltip4": "消除火焰，失去力量效果并向前发射",
-  "item.simplyswords.emberiresworditem.tooltip5": "一个火球。",
+  "item.simplyswords.emberiresworditem.tooltip1": "独特效果：余烬怒火"，
+  "item.simplyswords.emberiresworditem.tooltip2": "击中时有概率用火焰包裹持有者，对其"，
+  "item.simplyswords.emberiresworditem.tooltip3": "造成伤害并给予力量效果。"，
+  "item.simplyswords.emberiresworditem.tooltip4": "消除火焰，失去力量效果并向前发射"，
+  "item.simplyswords.emberiresworditem.tooltip5": "一个火球。"，
 
-  "item.simplyswords.volcanicfurysworditem.tooltip1": "独特效果：火山之怒",
-  "item.simplyswords.volcanicfurysworditem.tooltip2": "击中时有概率点燃你的目标，然后",
-  "item.simplyswords.volcanicfurysworditem.tooltip3": "将其弹飞。",
+  "item.simplyswords.volcanicfurysworditem.tooltip1": "独特效果：火山之怒"，
+  "item.simplyswords.volcanicfurysworditem.tooltip2": "击中时有概率点燃你的目标，然后"，
+  "item.simplyswords.volcanicfurysworditem.tooltip3": "将其弹飞。"，
 
-  "item.simplyswords.ferocitysworditem.tooltip1": "独特效果：凶猛",
-  "item.simplyswords.ferocitysworditem.tooltip2": "击中时有概率提升你的攻击速度，最多",
-  "item.simplyswords.ferocitysworditem.tooltip3": "可以叠加15次。",
-  "item.simplyswords.ferocitysworditem.tooltip4": "消耗所有叠加层数，获得力量效果，持续时间",
-  "item.simplyswords.ferocitysworditem.tooltip5": "等于消耗的层数。",
-  "item.simplyswords.ferocitysworditem.tooltip6": "",
+  "item.simplyswords.ferocitysworditem.tooltip1": "独特效果：凶猛"，
+  "item.simplyswords.ferocitysworditem.tooltip2": "击中时有概率提升你的攻击速度，最多"，
+  "item.simplyswords.ferocitysworditem.tooltip3": "可以叠加15次。"，
+  "item.simplyswords.ferocitysworditem.tooltip4": "消耗所有叠加层数，获得力量效果，持续时间"，
+  "item.simplyswords.ferocitysworditem.tooltip5": "等于消耗的层数。"，
+  "item.simplyswords.ferocitysworditem.tooltip6": ""，
 
-  "item.simplyswords.rendsworditem.tooltip1": "独特效果：灵魂撕裂",
-  "item.simplyswords.rendsworditem.tooltip2": "击中时有概率给予目标可叠加的虚弱效果。",
-  "item.simplyswords.rendsworditem.tooltip3": "",
-  "item.simplyswords.rendsworditem.tooltip4": "消耗周围敌人身上所有叠加的虚弱效果，",
-  "item.simplyswords.rendsworditem.tooltip5": "对他们造成伤害并治疗你，效果正比于",
-  "item.simplyswords.rendsworditem.tooltip6": "消耗的叠加层数",
+  "item.simplyswords.rendsworditem.tooltip1": "独特效果：灵魂撕裂"，
+  "item.simplyswords.rendsworditem.tooltip2": "击中时有概率给予目标可叠加的虚弱效果。"，
+  "item.simplyswords.rendsworditem.tooltip3": ""，
+  "item.simplyswords.rendsworditem.tooltip4": "消耗周围敌人身上所有叠加的虚弱效果，"，
+  "item.simplyswords.rendsworditem.tooltip5": "对他们造成伤害并治疗你，效果正比于"，
+  "item.simplyswords.rendsworditem.tooltip6": "消耗的叠加层数"，
 
-  "item.simplyswords.soulsworditem.tooltip1": "独特效果：灵魂融合",
-  "item.simplyswords.soulsworditem.tooltip2": "击中时有概率吸收周围的灵魂，使持有者变得",
-  "item.simplyswords.soulsworditem.tooltip3": "坚韧，并降低攻击速度。",
-  "item.simplyswords.soulsworditem.tooltip4": "释放灵魂，将攻速减益转移到附近的敌人",
-  "item.simplyswords.soulsworditem.tooltip5": "身上，并恢复持有者的生命。",
-  "item.simplyswords.soulsworditem.tooltip6": "",
+  "item.simplyswords.soulsworditem.tooltip1": "独特效果：灵魂融合"，
+  "item.simplyswords.soulsworditem.tooltip2": "击中时有概率吸收周围的灵魂，使持有者变得"，
+  "item.simplyswords.soulsworditem.tooltip3": "坚韧，并降低攻击速度。"，
+  "item.simplyswords.soulsworditem.tooltip4": "释放灵魂，将攻速减益转移到附近的敌人"，
+  "item.simplyswords.soulsworditem.tooltip5": "身上，并恢复持有者的生命。"，
+  "item.simplyswords.soulsworditem.tooltip6": ""，
 
-  "item.simplyswords.stealsworditem.tooltip1": "独特效果：灵魂窃取",
-  "item.simplyswords.stealsworditem.tooltip2": "击中时有概率吸收敌人的灵魂，获得急迫效果",
-  "item.simplyswords.stealsworditem.tooltip3": "并使敌人获得缓慢效果，对敌人进行标记。",
-  "item.simplyswords.stealsworditem.tooltip4": "",
-  "item.simplyswords.stealsworditem.tooltip5": "如果位于标记的敌人周围5格范围内，则归还",
-  "item.simplyswords.stealsworditem.tooltip6": "其灵魂，向前跳跃并获得隐身效果。",
-  "item.simplyswords.stealsworditem.tooltip7": "",
-  "item.simplyswords.stealsworditem.tooltip8": "如果距离标记的敌人超过5格，则闪现到其位置，",
-  "item.simplyswords.stealsworditem.tooltip9": "强行归还其灵魂，使其失明并造成伤害。",
-  "item.simplyswords.stealsworditem.tooltip10": "",
-
-
-  "item.simplyswords.levitationsworditem.tooltip1": "符文之力：漂浮",
-  "item.simplyswords.levitationsworditem.tooltip2": "击中时有概率反转攻击目标的重力。",
-  "item.simplyswords.levitationsworditem.tooltip3": "",
-  "item.simplyswords.speedsworditem.tooltip1": "符文之力：极速",
-  "item.simplyswords.speedsworditem.tooltip2": "击中时有概率在一段时间内提升持有者的",
-  "item.simplyswords.speedsworditem.tooltip3": "移动速度。",
-  "item.simplyswords.slownesssworditem.tooltip1": "符文之力：缓速",
-  "item.simplyswords.slownesssworditem.tooltip2": "击中时有概率在一段时间内降低攻击目标的",
-  "item.simplyswords.slownesssworditem.tooltip3": "移动速度。",
-  "item.simplyswords.freezesworditem.tooltip1": "符文之力：冰冻",
-  "item.simplyswords.freezesworditem.tooltip2": "击中时有概率使攻击目标降温或冰冻。",
-  "item.simplyswords.wildfiresworditem.tooltip1": "符文之力：野火",
-  "item.simplyswords.wildfiresworditem.tooltip2": "击中时有概率点燃附近所有和攻击目标",
-  "item.simplyswords.wildfiresworditem.tooltip3": "同类的实体。"
+  "item.simplyswords.stealsworditem.tooltip1": "独特效果：灵魂窃取"，
+  "item.simplyswords.stealsworditem.tooltip2": "击中时有概率吸收敌人的灵魂，获得急迫效果"，
+  "item.simplyswords.stealsworditem.tooltip3": "并使敌人获得缓慢效果，对敌人进行标记。"，
+  "item.simplyswords.stealsworditem.tooltip4": ""，
+  "item.simplyswords.stealsworditem.tooltip5": "如果位于标记的敌人周围5格范围内，则归还"，
+  "item.simplyswords.stealsworditem.tooltip6": "其灵魂，向前跳跃并获得隐身效果。"，
+  "item.simplyswords.stealsworditem.tooltip7": ""，
+  "item.simplyswords.stealsworditem.tooltip8": "如果距离标记的敌人超过5格，则闪现到其位置，"，
+  "item.simplyswords.stealsworditem.tooltip9": "强行归还其灵魂，使其失明并造成伤害。"，
+  "item.simplyswords.stealsworditem.tooltip10": ""，
 
 
-  "item.simplyswords.runic_tablet": "符文石板",
+  "item.simplyswords.levitationsworditem.tooltip1": "符文之力：漂浮"，
+  "item.simplyswords.levitationsworditem.tooltip2": "击中时有概率反转攻击目标的重力。"，
+  "item.simplyswords.levitationsworditem.tooltip3": ""，
+  "item.simplyswords.speedsworditem.tooltip1": "符文之力：极速"，
+  "item.simplyswords.speedsworditem.tooltip2": "击中时有概率在一段时间内提升持有者的"，
+  "item.simplyswords.speedsworditem.tooltip3": "移动速度。"，
+  "item.simplyswords.slownesssworditem.tooltip1": "符文之力：缓速"，
+  "item.simplyswords.slownesssworditem.tooltip2": "击中时有概率在一段时间内降低攻击目标的"，
+  "item.simplyswords.slownesssworditem.tooltip3": "移动速度。"，
+  "item.simplyswords.freezesworditem.tooltip1": "符文之力：冰冻"，
+  "item.simplyswords.freezesworditem.tooltip2": "击中时有概率使攻击目标降温或冰冻。"，
+  "item.simplyswords.wildfiresworditem.tooltip1": "符文之力：野火"，
+  "item.simplyswords.wildfiresworditem.tooltip2": "击中时有概率点燃附近所有和攻击目标"，
+  "item.simplyswords.wildfiresworditem.tooltip3": "同类的实体。",
 
 
-  "item.simplyswords.awakening": "觉醒等级：%d ",
-  "item.simplyswords.awakening.exp": "觉醒经验：%d%% ",
-  "item.simplyswords.awakening.powers": "觉醒能力：",
-  "item.simplyswords.greater_runic_power": "强化",
+  "item.simplyswords.runic_tablet": "符文石板"，
 
 
-  "item.simplyswords.runic_warglaive": "符文战刃",
-  "item.simplyswords.iron_halberd": "铁戟",
-  "item.simplyswords.gold_halberd": "金戟",
-  "item.simplyswords.diamond_halberd": "钻石戟",
-  "item.simplyswords.netherite_halberd": "下界合金戟",
-  "item.simplyswords.runic_halberd": "符文戟",
-  "item.simplyswords.soulpyre": "葬魂",
-  "item.simplyswords.frostfall": "霜降",
-  "item.simplyswords.molten_edge": "熔火",
-  "item.simplyswords.livyatan": "海兽利维坦",
-  "item.simplyswords.icewhisper": "冰语",
-  "item.simplyswords.arcanethyst": "奥术斧钺",
-  "item.simplyswords.thunderbrand": "纵雷",
-  "item.simplyswords.slumbering_lichblade": "沉眠的巫妖之刃",
-  "item.simplyswords.waking_lichblade": "苏醒的巫妖之刃",
-  "item.simplyswords.awakened_lichblade": "觉醒的巫妖之刃",
-  "item.simplyswords.shadowsting": "暗影之刺",
+  "item.simplyswords.awakening": "觉醒等级：%d "，
+  "item.simplyswords.awakening.exp": "觉醒经验：%d%% "，
+  "item.simplyswords.awakening.powers": "觉醒能力："，
+  "item.simplyswords.greater_runic_power": "强化"，
+
+
+  "item.simplyswords.runic_warglaive": "符文战刃"，
+  "item.simplyswords.iron_halberd": "铁戟"，
+  "item.simplyswords.gold_halberd": "金戟"，
+  "item.simplyswords.diamond_halberd": "钻石戟"，
+  "item.simplyswords.netherite_halberd": "下界合金戟"，
+  "item.simplyswords.runic_halberd": "符文戟"，
+  "item.simplyswords.soulpyre": "葬魂"，
+  "item.simplyswords.frostfall": "霜降"，
+  "item.simplyswords.molten_edge": "熔火"，
+  "item.simplyswords.livyatan": "海兽利维坦"，
+  "item.simplyswords.icewhisper": "冰语"，
+  "item.simplyswords.arcanethyst": "奥术斧钺"，
+  "item.simplyswords.thunderbrand": "纵雷"，
+  "item.simplyswords.slumbering_lichblade": "沉眠的巫妖之刃"，
+  "item.simplyswords.waking_lichblade": "苏醒的巫妖之刃"，
+  "item.simplyswords.awakened_lichblade": "觉醒的巫妖之刃"，
+  "item.simplyswords.shadowsting": "暗影之刺"，
 
 
   "item.simplyswords.mythicmetals_compat.adamantite.adamantite_halberd": "精金戟",
